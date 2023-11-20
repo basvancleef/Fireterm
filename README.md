@@ -3,7 +3,7 @@
 #### 🚀 Get started
 Use the following code snippet to clone this plugin.
 ```
-git clone git@gitlab.com:basvancleef1/custom-zsh-plugin.git $ZSH_CUSTOM/plugins/fireterm
+git clone git@github.com:basvancleef/Custom-ZSH-Plugin.git $ZSH_CUSTOM/plugins/fireterm
 ```
 
 #### 👨‍💻 Code
